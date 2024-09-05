@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "image": "assets/images/men_1.png",
+    "name": "Craig Green",
+    "description": "Towel Jacket",
+    "price": 350,
+    "totalPrice": 350,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "2",
+    "image": "assets/images/men_4.png",
+    "name": "Craig Green",
+    "description": "Tape Knit Trouser",
+    "price": 90,
+    "totalPrice": 90,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "3",
+    "image": "assets/images/men_3.png",
+    "name": "Stampd",
+    "description": "Snap Front Coaches Jacket",
+    "price": 65,
+    "totalPrice": 65,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "4",
+    "image": "assets/images/men_6.png",
+    "name": "Loewe",
+    "description": "Workwear Jacket",
+    "price": 340,
+    "totalPrice": 340,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "5",
+    "image": "assets/images/men_5.png",
+    "name": "Marni",
+    "description": "Bleached Coated Organic Denim",
+    "price": 180,
+    "totalPrice": 180,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "6",
+    "image": "assets/images/men_2.png",
+    "name": "Craig Green",
+    "description": "Rope Knit Vest",
+    "price": 400,
+    "totalPrice": 400,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "7",
+    "image": "assets/images/men_7.png",
+    "name": "Stampd",
+    "description": "Palm Rug Buttondown",
+    "price": 250,
+    "totalPrice": 250,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "8",
+    "image": "assets/images/men_8.png",
+    "name": "Barena",
+    "description": "Velier Mante Trousers",
+    "price": 320,
+    "totalPrice": 320,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "9",
+    "image": "assets/images/men_9.png",
+    "name": "Rhude",
+    "description": "Canvas Cargo Pant",
+    "price": 390,
+    "totalPrice": 390,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "10",
+    "image": "assets/images/men_10.png",
+    "name": "Massimo Alba",
+    "description": "Nevis Tee",
+    "price": 170,
+    "totalPrice": 170,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "11",
+    "image": "assets/images/men_11.png",
+    "name": "Barena",
+    "description": "Overshirt Capitan Caramal",
+    "price": 420,
+    "totalPrice": 420,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "12",
+    "image": "assets/images/men_12.png",
+    "name": "Massimo Alba",
+    "description": "Alder",
+    "price": 450,
+    "totalPrice": 450,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "13",
+    "image": "assets/images/men_13.png",
+    "name": "John Elliott",
+    "description": "Himalayan Parachute Pants",
+    "price": 200,
+    "totalPrice": 200,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "14",
+    "image": "assets/images/men_14.png",
+    "name": "Loewe",
+    "description": "Jacket",
+    "price": 650,
+    "totalPrice": 650,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "15",
+    "image": "assets/images/men_15.png",
+    "name": "Marni",
+    "description": "Garment Dyed Denim Cargo Pants",
+    "price": 390,
+    "totalPrice": 390,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  }
+]

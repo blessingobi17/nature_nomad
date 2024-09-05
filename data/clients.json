@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/carousel_1.png",
+    "name": "Mariposa Mini Dress"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/carousel_2.png",
+    "name": "Loewe Jacket"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/carousel_3.png",
+    "name": "Tint Denim Andi"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/carousel_4.png",
+    "name": "Snap Front Coaches Jacket"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/carousel_5.png",
+    "name": "Tint Denim Andi"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/carousel_6.png",
+    "name": "Massimo Alba Alder"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/carousel_7.png",
+    "name": "Libertine Fitted Tee"
+  },
+  {
+    "id": 8,
+    "image": "assets/images/carousel_8.png",
+    "name": "Nevis Tee"
+  }
+]

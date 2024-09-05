@@ -1,0 +1,167 @@
+[
+  {
+    "id": "01",
+    "image": "assets/images/women_1.png",
+    "name": "SIR",
+    "description": "Libertine Fitted Tee",
+    "price": 220,
+    "totalPrice": 220,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "02",
+    "image": "assets/images/women_2.png",
+    "name": "The Attico",
+    "description": "Long Pant",
+    "price": 430,
+    "totalPrice": 430,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "03",
+    "image": "assets/images/women_3.png",
+    "name": "The Attico",
+    "description": "Mini Skirt",
+    "price": 310,
+    "totalPrice": 310,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "04",
+    "image": "assets/images/women_4.png",
+    "name": "Ganni",
+    "description": "Future Viscose Rib Halterneck Top",
+    "price": 170,
+    "totalPrice": 170,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "05",
+    "image": "assets/images/women_5.png",
+    "name": "Aya Muse",
+    "description": "Vega Dress",
+    "price": 320,
+    "totalPrice": 320,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "dresses"
+  },
+  {
+    "id": "06",
+    "image": "assets/images/women_6.png",
+    "name": "Ganni",
+    "description": "Tint Denim Andi",
+    "price": 180,
+    "totalPrice": 180,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "07",
+    "image": "assets/images/women_7.png",
+    "name": "GanMiaouni",
+    "description": "Mini Tee",
+    "price": 100,
+    "totalPrice": 100,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  },
+  {
+    "id": "08",
+    "image": "assets/images/women_8.png",
+    "name": "Second Skin",
+    "description": "Mariposa Mini Dress",
+    "price": 160,
+    "totalPrice": 160,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "dresses"
+  },
+  {
+    "id": "09",
+    "image": "assets/images/women_9.png",
+    "name": "T by Alexander Wang",
+    "description": "Bite Short",
+    "price": 240,
+    "totalPrice": 240,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "010",
+    "image": "assets/images/women_10.png",
+    "name": "Nike",
+    "description": "X Jacquemus Dress",
+    "price": 130,
+    "totalPrice": 130,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "dresses"
+  },
+  {
+    "id": "011",
+    "image": "assets/images/women_11.png",
+    "name": "Aya Muse",
+    "description": "Leia Dress",
+    "price": 480,
+    "totalPrice": 480,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "dresses"
+  },
+  {
+    "id": "012",
+    "image": "assets/images/women_12.png",
+    "name": "JW Anderson",
+    "description": "Chenille Cardigan",
+    "price": 430,
+    "totalPrice": 430,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "013",
+    "image": "assets/images/women_13.png",
+    "name": "SIR",
+    "description": "Lush Midi Skirt",
+    "price": 350,
+    "totalPrice": 350,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "pants"
+  },
+  {
+    "id": "014",
+    "image": "assets/images/women_14.png",
+    "name": "Ganni",
+    "description": "Light Melange Suiting Short Jacket",
+    "price": 290,
+    "totalPrice": 290,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "jackets"
+  },
+  {
+    "id": "015",
+    "image": "assets/images/women_15.png",
+    "name": "Asta Resort",
+    "description": "Grace Sequined Crop Top",
+    "price": 170,
+    "totalPrice": 170,
+    "quantity": 1,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "tops"
+  }
+]

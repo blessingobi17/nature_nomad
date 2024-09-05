@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/collection_1.png",
+    "name": "Athena Crop",
+    "description": "Textured Compression; Light Support",
+    "price": 48,
+    "totalPrice": 48,
+    "quantity": 1,
+    "selectedSize": "M"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/collection_2.png",
+    "name": "Athena Crop",
+    "description": "Textured Compression; Light Support",
+    "price": 48,
+    "totalPrice": 48,
+    "quantity": 1,
+    "selectedSize": "M"
+  }
+]
