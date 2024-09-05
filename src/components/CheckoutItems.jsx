@@ -13,7 +13,12 @@ const CheckoutItems = () => {
         >
           <div className="flex items-center gap-4">
             <div className="relative">
-              <img src={item.image} alt="" className="h-16 w-16" />
+              <img
+                src={item.image}
+                alt="Cart Items"
+                className="h-16 w-16"
+                loading="lazy"
+              />
               <span
                 className="bg-gray-500 text-white h-5 w-5 rounded-full text-center
               absolute top-0 -right-2"

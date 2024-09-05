@@ -56,8 +56,9 @@ const CartItems = ({
           >
             <img
               src={item.image}
-              alt=""
+              alt="Cart Items"
               className=" h-40 w-32 object-cover mr-4"
+              loading="lazy"
             />
             <div className="flex flex-col justify-between w-full">
               <div className="flex w-full justify-between">

@@ -22,7 +22,7 @@ const ItemsPage = () => {
   // scroll to review section
   const scrollToReview = () => {
     window.scrollTo({
-      top: 900,
+      top: 850,
       behavior: "smooth",
     });
   };

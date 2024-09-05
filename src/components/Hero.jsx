@@ -9,18 +9,21 @@ const Hero = () => {
       <section className="grid md:grid-cols-3 grid-cols-2 w-full justify-between lg:gap-4 gap-2 pb-6">
         <img
           src={hero3}
-          alt=""
+          alt="Hero Image 1"
           className="lg:h-hero md:h-80 h-56 w-full object-cover"
+          loading="lazy"
         />
         <img
           src={hero2}
-          alt=""
+          alt="Hero Image 2"
           className="lg:h-hero md:h-80 h-56 w-full object-cover"
+          loading="lazy"
         />
         <img
           src={hero1}
-          alt=""
+          alt="Hero Image 3"
           className="lg:h-hero md:h-80 h-56 md:block hidden object-cover"
+          loading="lazy"
         />
       </section>
       <section className="flex lg:flex-row flex-col justify-between w-full items-center">

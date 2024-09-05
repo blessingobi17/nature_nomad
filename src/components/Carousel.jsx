@@ -42,8 +42,9 @@ const Carousel = () => {
             <figure className="relative">
               <img
                 src={grid.image}
-                alt=""
+                alt="Carousel Images"
                 className="lg:w-80 w-full h-80 object-cover"
+                loading="lazy"
               />
               <figcaption
                 className="absolute top-8 left-4 opacity-0 carouselText bg-white dark:text-black

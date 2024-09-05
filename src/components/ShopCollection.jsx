@@ -8,8 +8,9 @@ const ShopCollection = () => {
       <section className="flex md:flex-row flex-col w-full items-center lg:gap-14 md:gap-8 gap-4 lg:pb-0 pb-16">
         <img
           src={collection1}
-          alt=""
+          alt="First Collection Image"
           className="md:h-hero h-96 lg:w-auto md:w-1/2 w-full object-cover"
+          loading="lazy"
         />
         <article className="text-center">
           <h1 className="text-3xl font-semibold pb-2 font-ptSerif">
@@ -29,8 +30,9 @@ const ShopCollection = () => {
       <section className="flex md:flex-row-reverse flex-col w-full items-center lg:gap-14 md:gap-8 gap-4">
         <img
           src={collection2}
-          alt=""
+          alt="Second Collection Image"
           className="md:h-hero h-96 lg:w-auto md:w-1/2 w-full object-cover"
+          loading="lazy"
         />
         <article className="text-center">
           <h1 className="text-3xl font-semibold pb-2 font-ptSerif">

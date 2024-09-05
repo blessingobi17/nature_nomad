@@ -81,8 +81,9 @@ const WomenMenu = () => {
             >
               <img
                 src={item.image}
-                alt=""
+                alt="Menu Images"
                 className="lg:h-96 md:h-72 w-full h-64 object-cover"
+                loading="lazy"
               />
             </article>
           ))}

@@ -9,8 +9,9 @@ const ShopMenWomen = () => {
         <article className="md:w-1/2 w-full relative flex items-center justify-center  ">
           <img
             src={women}
-            alt=""
+            alt="Women Collection"
             className="lg:h-hero h-96 w-full object-cover"
+            loading="lazy"
           />
 
           <h2 className="absolute text-4xl text-white font-bold cursor-pointer">
@@ -20,8 +21,9 @@ const ShopMenWomen = () => {
         <article className="md:w-1/2 w-full relative flex items-center justify-center">
           <img
             src={men}
-            alt=""
+            alt="Men Collection"
             className="lg:h-hero h-96 w-full object-cover"
+            loading="lazy"
           />
 
           <h2 className="absolute text-4xl text-white font-bold cursor-pointer">

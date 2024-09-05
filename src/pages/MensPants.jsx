@@ -86,8 +86,9 @@ const MensPants = () => {
                 <Link to={`/item/${item.id}`}>
                   <img
                     src={item.image}
-                    alt=""
+                    alt="Men's Pants"
                     className="lg:h-hero md:h-auto h-64 object-cover mb-4"
+                    loading="lazy"
                   />
                 </Link>
                 <div
