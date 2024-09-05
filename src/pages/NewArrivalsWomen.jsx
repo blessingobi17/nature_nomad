@@ -46,12 +46,13 @@ const NewArrivalsWomen = () => {
         Women's New Arrivals
       </h1>
       <div className="relative w-40 pt-6" ref={dropdownRef}>
-        <span className="flex items-center gap-1">
+        <span
+          className="flex items-center gap-1 cursor-pointer"
+          onClick={() => setToggle((prevState) => !prevState)}
+        >
           <p className="text-sm">{selectedFilter}</p>
           <FaChevronDown
-            className={`cursor-pointer text-xs mt-1 ${
-              toggle ? "rotate-180" : ""
-            }`}
+            className={`text-xs mt-1 ${toggle ? "rotate-180" : ""}`}
             onClick={() => setToggle((prevState) => !prevState)}
           />
         </span>
